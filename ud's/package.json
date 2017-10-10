@@ -1,0 +1,27 @@
+{
+  "name": "landio-html",
+  "version": "1.0.0",
+  "description": "![Version badge](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.2.7&x2=0)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatygrassini/landio-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatygrassini/landio-html/issues"
+  },
+  "homepage": "https://github.com/tatygrassini/landio-html#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1"
+  }
+}
